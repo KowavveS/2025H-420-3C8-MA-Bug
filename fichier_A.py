@@ -10,5 +10,6 @@ def boucle():
         i -= 1
 
 
-def plus_deux(a):
+def plus_deux(b):
     return b + 2
+def  
